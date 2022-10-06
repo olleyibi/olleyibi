@@ -1,3 +1,9 @@
+
+<img width="auto" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+
+
+
 👨  About Me
 - 😄 Pronouns: He/Him/His
 - 👋 Hi, I’m Ibidamola Olley
@@ -8,6 +14,9 @@
 - 💜 Interests: philosophy, travel, soccer, basketball, video games
 
 <br>
+
+
+
 
 🛠  Tech Stack
 - 👾   <img src="https://camo.githubusercontent.com/76e57822bc9f3ddf034241f7b7c2f63c2277700c65e8d6c298db03412d4616ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3146353137343f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" data-canonical-src="https://img.shields.io/badge/Python-1F5174?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/eaca6fd0625c5abfd98f4605f4db1de600c65aa64138cb2fed56dffc34c338e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d3139343336303f7374796c653d666f722d7468652d6261646765266c6f676f3d52266c6f676f436f6c6f723d7768697465" alt="R" data-canonical-src="https://img.shields.io/badge/R-194360?style=for-the-badge&amp;logo=R&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d"> <img src="https://camo.githubusercontent.com/539a184961e9ab46a914b3a57718cd52f9a122ffb33a0bcaaa92484add20ba72/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d7953514c26636f6c6f723d343437394131266c6f676f3d4d7953514c266c6f676f436f6c6f723d464646464646266c6162656c3d">
