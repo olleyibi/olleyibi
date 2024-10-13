@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him/His
 - 👋 Hi, I’m Ibidamola Olley
 - 👀 I’m interested in Data and IT Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Power Apps Development
 - 💼 I’m always looking to collaborate with: people from any field
 - 💬 Ask me about: anything, I am happy to help
 - 💜 Interests: philosophy, travel, soccer, basketball, video games
