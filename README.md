@@ -14,26 +14,27 @@
 
 ## 🛠 Tech Stack
 
-- 👾  
+- 🌐 Microsoft & Power Tools  
+  <img src="https://img.shields.io/badge/Power%20Apps-3B77C3?style=for-the-badge&logo=microsoft-powerapps&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Power%20Automate-0078D6?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Power%20BI-222222?style=for-the-badge&logo=Power%20BI&logoColor=F2C811" />  
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+- 👾 Programming & Data Science  
   <img src="https://img.shields.io/badge/Python-1F5174?style=for-the-badge&logo=python&logoColor=white" />  
   <img src="https://img.shields.io/badge/R-194360?style=for-the-badge&logo=R&logoColor=white" />  
+  <img src="https://img.shields.io/badge/SQL-444444?style=for-the-badge&logo=database&logoColor=white" />  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff" />  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff" />  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff" />  
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff" />
 
-- 🌐  
+- 🌐 Other Tools  
   <img src="https://img.shields.io/badge/Tableau-14354C?style=for-the-badge&logo=Tableau&logoColor=yellow" />  
-  <img src="https://img.shields.io/badge/RStudio-FFFFFF?style=for-the-badge&logo=RStudio&logoColor=4D8CFF" />  
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Atom-0F2738?style=for-the-badge&logo=atom&logoColor=lightgreen" />  
-  <img src="https://img.shields.io/badge/Power%20BI-222222?style=for-the-badge&logo=Power%20BI&logoColor=F2C811" />  
-  <img src="https://img.shields.io/badge/SQL-444444?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-FFFFFF?style=for-the-badge&logo=RStudio&logoColor=4D8CFF" />
 
-- ⚙️  
+- ⚙️ Version Control  
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
-- 💻  
+- 💻 Operating Systems  
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 ---
