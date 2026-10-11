@@ -1,59 +1,68 @@
-<img width="auto" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" style="max-width: 100%; display: inline-block;" />
+<a href="https://olleyibi.github.io/">
+  <img src="assets/profile-banner.svg" alt="Big questions. Bright ideas. Explore Ibidamola Olley’s portfolio." width="1200" />
+</a>
 
-## 👨 About Me
+# Hi, I’m Ibidamola Olley 👋
 
-- 😄 Pronouns: He/Him/His  
-- 👋 Hi, I’m **Ibidamola Olley**  
-- 👀 I’m interested in **Data and IT Development**  
-- 🌱 I’m currently learning **Power Apps Development**  
-- 💼 I’m open to collaborating with people across any field  
-- 💬 Ask me about anything — I’m happy to help  
-- 💜 Interests: philosophy, travel, soccer, basketball, video games  
+**Data analytics · Power BI · Data science · Microsoft solutions**
 
----
+I turn business questions into clear reports, reliable analysis, and practical tools. I’m a **System and Data Analyst at the NSW Department of Planning, Housing and Infrastructure (DPHI)**, with experience across government, higher education, and local government.
 
-## 🛠 Tech Stack
+My work brings together data, systems, and the people who use them. I’m interested in **Data Analyst, Data Scientist, and Power BI Developer** opportunities.
 
-- 🌐 Microsoft & Power Tools  
-  <img src="https://img.shields.io/badge/Power%20Apps-3B77C3?style=for-the-badge&logo=microsoft-powerapps&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Power%20Automate-0078D6?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Power%20BI-222222?style=for-the-badge&logo=Power%20BI&logoColor=F2C811" />  
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+**[Explore my portfolio ↗](https://olleyibi.github.io/)** · **[Download my resume](https://olleyibi.github.io/Ibidamola-Olley-Resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/ibidamola-olley/)** · **[Email me](mailto:Ibidamola.olley@gmail.com)**
 
-- 👾 Programming & Data Science  
-  <img src="https://img.shields.io/badge/Python-1F5174?style=for-the-badge&logo=python&logoColor=white" />  
-  <img src="https://img.shields.io/badge/R-194360?style=for-the-badge&logo=R&logoColor=white" />  
-  <img src="https://img.shields.io/badge/SQL-444444?style=for-the-badge&logo=database&logoColor=white" />  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff" />  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff" />
+## What I bring
 
-- 🌐 Other Tools  
-  <img src="https://img.shields.io/badge/Tableau-14354C?style=for-the-badge&logo=Tableau&logoColor=yellow" />  
-  <img src="https://img.shields.io/badge/RStudio-FFFFFF?style=for-the-badge&logo=RStudio&logoColor=4D8CFF" />
+- **Reporting people can use:** Power BI dashboards, paginated reports, DAX measures, and data models shaped around business questions.
+- **Data people can trust:** SQL, Python, and R for analysis, integration, validation, and migration checks.
+- **Microsoft tools that work together:** solutions using Power Apps, Power Automate, SharePoint, Microsoft Forms, Dataverse, and Power BI.
+- **Analysis with context:** statistical modelling, time-series analysis, model evaluation, and clear explanations of limitations.
 
-- ⚙️ Version Control  
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+## Technical toolkit
 
-- 💻 Operating Systems  
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+| Area | Tools and methods |
+| --- | --- |
+| Business intelligence | **Power BI**, DAX, Power Query, Tableau, Excel, SSRS, Report Builder |
+| Programming and databases | **SQL, Python, R**, SQL Server, Oracle, MySQL |
+| Apps and automation | **Power Apps, Power Automate**, SharePoint, Microsoft Forms, Dataverse |
+| Data foundations | Data modelling, ETL, dataflows, data quality, migration validation |
+| Analysis and modelling | Regression, generalised additive models (GAMs), statistical testing, time series, model evaluation |
 
----
+**Also familiar with:** Microsoft Fabric and Azure. **Development tools:** Git, GitHub, and RStudio.
 
-## 🤝 Connect With Me
+## Selected work
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ibidamola-olley/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/olleyibi">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:ibidamola.olley@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+These portfolio stories explain the business question, my approach, and the outcome. They use general descriptions and, where illustrated, fictional data to protect client information.
 
-<!---
-olleyibi/olleyibi is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **[Portfolio reporting with Power BI](https://olleyibi.github.io/project-reporting/)** — dashboards and paginated reports that help project, program, and portfolio managers understand performance.
+- **[User lifecycle automation](https://olleyibi.github.io/project-automation/)** — connecting SQL Server, SharePoint, Dataverse, and Power Automate to improve access checks and licence oversight.
+- **[Research data migration validation](https://olleyibi.github.io/project-migration/)** — repeatable checks in R to compare systems and make migration progress and discrepancies easier to track.
+
+**[See all project stories →](https://olleyibi.github.io/work/)**
+
+## Explore the code
+
+These repositories are **learning and coursework projects** that show how I practise analytical and development techniques.
+
+| Project | What to explore | Tools |
+| --- | --- | --- |
+| [Regression modelling pipeline](https://github.com/olleyibi/ibimlprojects) | Data preprocessing, model comparison, and a Flask prediction interface | Python, scikit-learn, Flask |
+| [Customer churn classification](https://github.com/olleyibi/ann_classification_churn_practice) | A neural-network classifier with a Streamlit interface; Udemy coursework | Python, TensorFlow/Keras, Streamlit |
+| [Gaussian mixture models](https://github.com/olleyibi/A3-Gaussian-mixture-models) | Expectation-maximisation with full covariance matrices; university coursework | MATLAB, statistical modelling |
+
+## Experience and learning
+
+**Master of Data Science**, University of New England · **BEng, Electrical & Electronics Engineering**, Landmark University.
+
+My professional development includes Microsoft Fabric, Azure data engineering, advanced DAX, Power BI dataflows and paginated reporting, Power Apps, Power Automate, and SharePoint. I have also undertaken **PRINCE2 training**.
+
+**[Explore my experience](https://olleyibi.github.io/experience/)** · **[View certifications and training](https://olleyibi.github.io/training/)**
+
+## A little beyond the data
+
+I enjoy philosophy, travel, football, basketball, and video games. Curious questions and good conversations are always welcome.
+
+My portfolio also has **IBI**, a robot with dreads and an enthusiastic supply of AI jokes. [Meet him here](https://olleyibi.github.io/).
+
+**Have a reporting challenge, an automation idea, or a role in mind? [Let’s talk.](https://olleyibi.github.io/#contact)**
