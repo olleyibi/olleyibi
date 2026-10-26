@@ -55,7 +55,9 @@ These repositories are **learning and coursework projects** that show how I prac
 
 **Master of Data Science**, University of New England · **BEng, Electrical & Electronics Engineering**, Landmark University.
 
-My professional development includes Microsoft Fabric, Azure data engineering, advanced DAX, Power BI dataflows and paginated reporting, Power Apps, Power Automate, and SharePoint. I have also undertaken **PRINCE2 training**.
+**PRINCE2 Project Management Foundation (Version 7)** — certified by PeopleCert, effective **21 October 2026**; renew by **21 October 2029**.
+
+My professional development also includes Microsoft Fabric, Azure data engineering, advanced DAX, Power BI dataflows and paginated reporting, Power Apps, Power Automate, and SharePoint.
 
 **[Explore my experience](https://olleyibi.github.io/experience/)** · **[View certifications and training](https://olleyibi.github.io/training/)**
 
