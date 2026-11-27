@@ -10,7 +10,16 @@ I turn business questions into clear reports, reliable analysis, and practical t
 
 My work brings together data, systems, and the people who use them. I’m interested in **Data Analyst, Data Scientist, and Power BI Developer** opportunities.
 
-**[Explore my portfolio ↗](https://olleyibi.github.io/)** · **[Download my resume](https://olleyibi.github.io/Ibidamola-Olley-Resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/ibidamola-olley/)** · **[Email me](mailto:Ibidamola.olley@gmail.com)**
+**[Explore my portfolio ↗](https://olleyibi.github.io/)** · **[Download my full career CV (PDF)](https://olleyibi.github.io/Ibidamola-Olley-Resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/ibidamola-olley/)** · **[Email me](mailto:Ibidamola.olley@gmail.com)**
+
+### Career highlights
+
+- **Automation with a measurable result:** reduced user-access cleanup from one week to one day using Power Automate.
+- **End-to-end Microsoft solutions:** Power BI reporting, hierarchy-based access, cost recovery reporting, and coaching registration with Power Apps and Power Automate.
+- **An engineering foundation:** generator electrical checks and overhaul support at Biswal, plus solar installations and network setup at Dotmac in Nigeria.
+- **PRINCE2 Foundation certified:** practical delivery experience supported by formal project management certification.
+
+The CV includes all six roles across Australia and Nigeria, with expanded responsibilities for my early engineering and IT experience.
 
 ## What I bring
 
